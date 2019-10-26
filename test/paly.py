@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 import urllib.request
+import re
+import urllib
+
 
 # 1、网址url  --豆瓣网
-url = 'http://www.onlinedown.net/soft/987607.htm'
+url = 'http://www.zuowenwang.net/p/216893.html'
 
 # 2、直接请求  返回结果
 response = urllib.request.urlopen(url)
@@ -14,7 +17,10 @@ print('状态码：', response.getcode())
 data = response.read()
 
 # 5、设置编码
-data = data.decode('utf-8')
+data = data.decode('GB2312')
 
 # 6、打印结果
-print(data)
+# print(data)
+
+
+
