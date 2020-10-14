@@ -1,11 +1,31 @@
 # Read
 There are stories about two U.S . presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK.We don't know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education.In fact，he had difficulty reading and writing.When important papers came to Jackson，he tried to read them and then had his assistants explain what they said.If he approved of a paper.he would write"all correct"on it.The problem was that he didn't know how to spell.So what he really wrote was"ol korekt".After a while，he shortened that term to "OK".
 The second explanation is based on the place where President Van Buren was born，Kinderhook，New York.Van Bnren's friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called "OK".
-1.The author______________________A.believes both of the storiesB.doesn't believe a word of the storiesC is not sure whether the stories are trueD.is telling the stories just for fun
-2.According to the passage，President Jackson _______________________A.couldn't draw up any documents at allB.didn't like to read important papers by himselfC.often had his assistants sign documents for himD.wasn't good at reading，writing or spelling
-3.According to the first story, the term "OK" _______________________A.was approved of by President JacksonB.was the title of some Official documentsC.was first used by President JacksonD.was an old way to spell"all correct’’
-4.According to the second story，the term "OK" _______________________A.was the short way to say "old Kinderhook Club"B.meant the place where President Van Buren was bornC.was the name of Van Buren's clubD.was used to call Van Buren's supporters in the election
-5.According to the second story.the term"OK"was first used _______________________A.by Van BurenB.in a presidential electionC.to organize the Old Kinderhook ClubD.by the members of the "Old Kinderhook Club"
+1.The author______________________
+A.believes both of the stories
+B.doesn't believe a word of the stories
+C.is not sure whether the stories are true
+D.is telling the stories just for fun
+2.According to the passage，President Jackson _______________________
+A.couldn't draw up any documents at all
+B.didn't like to read important papers by himself
+C.often had his assistants sign documents for him
+D.wasn't good at reading，writing or spelling
+3.According to the first story, the term "OK" _______________________
+A.was approved of by President Jackson
+B.was the title of some Official documents
+C.was first used by President Jackson
+D.was an old way to spell"all correct’’
+4.According to the second story，the term "OK" _______________________
+A.was the short way to say "old Kinderhook Club"
+B.meant the place where President Van Buren was born
+C.was the name of Van Buren's club
+D.was used to call Van Buren's supporters in the election
+5.According to the second story.the term"OK"was first used _______________________
+A.by Van Buren
+B.in a presidential election
+C.to organize the Old Kinderhook Club
+D.by the members of the "Old Kinderhook Club"
 ## 阅读答案
 1.C
 2.D

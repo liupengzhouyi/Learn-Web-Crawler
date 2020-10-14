@@ -16,7 +16,10 @@ B.almost all the cars in the firms are rented on holidays
 C.more and more cars are rented because the population is growing 
 D.people can only rent Santana sedans in car rental firms
 3. The underlined phrase ― taking advantage of  in the first paragraph means ______. 
-A. use B. enjoyment C. benefit D. interest
+A. use 
+B. enjoyment 
+C. benefit 
+D. interest
 ## 阅读答案
 1.C
 2.B

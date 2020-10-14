@@ -4,11 +4,14 @@
 　　While all men feel hungry, there is more than one method for helping free people of this uncomfortable feeling. How needs are satisfying depends on what we have been taught or what we have learned from our experiences. As we grow, we learn shat foods our society considers acceptable, and how they should be prepared and eaten. In some societies, for example, pork is considered a special food while in other societies it is strictly forbidden. In some societies fish is always cooked, but in other societies raw (生的) fish is preferred. The way in which we satisfy a drive is a learned response. Nature has not built a food – getting response into man. He cannot just eat whatever he wants of whenever there is food, his satisfaction of the hunger drive, for example, is limited by the rules of a society. Although we are hunger, according to the rules of society, we should not steal food, even if it belongs someone weaker than we are.
 1.According to the passage, ―drives _____.
 A.can be brought about by motivation 
-Bcan always decide man‘s action
+B. can always decide man‘s action
 C.direct man‘s energy toward certain goals 
 D.follow man‘s motivations
 2. ____ is a biological need.
-A.Motivation B. Drive C. Hunger D. Experience
+A.Motivation 
+B. Drive 
+C. Hunger 
+D. Experience
 3. The writer hopes to tell us that ____.
 A. man should satisfy his biological needs whenever necessary
 B.man‘s needs should always be satisfied without any condition

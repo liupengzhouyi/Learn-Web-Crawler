@@ -11,8 +11,10 @@
 　　―But Tommy, you are supposed to show your own hobby here, not somebody else‘s!‖ said the teacher.
 　　―I know that,‖ answered Tommy.‖ My hobby is watching my brother collecting butterflies.‖
 1.What‘s the best title for this passage?
-A. Important Hobbies B. Tommy‘s Hobby
-C. Different Hobbies D. Hobby of Collecting Butterflies
+A. Important Hobbies 
+B. Tommy‘s Hobby
+C. Different Hobbies 
+D. Hobby of Collecting Butterflies
 2.The teacher______.
 A. asked the pupils who were in her class to bring something they had made
 B. was certain that her pupils were good at making things, so she wanted to show them to the parents
@@ -20,7 +22,8 @@ C. invited the parents to come and see what the pupils had made
 D. allowed the pupils who had hobbies not to go to class that Friday afternoon
 3.After reading the passage the readers will laugh. Why?
 A. Because Tommy was so lazy a boy.
-B. Because the teacher knew so little about Tommy. C. Because Tommy had made nothing at all.
+B. Because the teacher knew so little about Tommy. 
+C. Because Tommy had made nothing at all.
 D. Because Tommy had a strange idea about hobby.
 ## 阅读答案
 1.B

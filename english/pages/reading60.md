@@ -1,11 +1,31 @@
 # Read
 If we were asked exactly what we were doing a year ago，we should probably have to say that we could not remember But if we had kept a book and had written in it an account of what we did each day，we should be able to give an answer to the question.
 It is the same in history Many things have been forgotten because we do not have any written account of them Sometimes men did keep a record of the most important happenings in their country，but often it was destroyed by fire or in a war.Sometimes there was never any written record at all because the people of that time and place did not know how to Write.For example，we know a good deal about the people who lived in China 4，000 years ago, because they could write and leave written records for those who lived after them.But we know almost nothing about the people who lived even 200 years ago in central Africa. because they had not learned to write. Sometimes.of course，even if the people cannot write，they may know something of the past.They have heard about it from older people，and often songs and dances and stories have been made about the most important happenings，and these have been sung and acted and told for many generations For most people are proud to tell what their fathers did in the past.This we may call "remembered history".Some of it has now been written down. It is not so exact or so valuable to us as written history is because words are much more easily changed when used again and again in speech than when copied in writing.But where there are no written records，such spoken stories are often very helpful.
-1.Which of the following ideas is not suggested in the passage?A."Remembered history"，compared with written history，is less reliableB.Written records of the past play the most important role in our learning of the human history.C.A written account of our daily activities helps US to be able to answer many questions.D.Where there are no written records.there is no history.
-2.We know very little about the central Africa 200 years ago because____________A.there was nothing worth being written down at that timeB.the people there ignored the importance of keeping a recordC.the written records were perhaps destroyed by a fireD.the people there did not know how to write
-3."Remembered history"refers to_____________A.history based on a person?s imaginationB.stories of important happenings passed down from mouth to mouthC.songs and dances about the most important eventsD.both B and C
-4."Remembered history"is regarded as valuable only when____________A.it is written downB.no written account is availableC.it proves to be timeD.people are interested in it
-5.The passage suggests that we could have learned much more about our past than we do now if the ancient people had______________A.kept a written record of every past eventB.not burnt their written records in warsC.told exact stories of the most important happeningsD.made more songs and dances
+1.Which of the following ideas is not suggested in the passage?
+A."Remembered history"，compared with written history，is less reliable
+B.Written records of the past play the most important role in our learning of the human history.
+C.A written account of our daily activities helps US to be able to answer many questions.
+D.Where there are no written records.there is no history.
+2.We know very little about the central Africa 200 years ago because____________
+A.there was nothing worth being written down at that time
+B.the people there ignored the importance of keeping a record
+C.the written records were perhaps destroyed by a fire
+D.the people there did not know how to write
+3."Remembered history"refers to_____________
+A.history based on a person?s imagination
+B.stories of important happenings passed down from mouth to mouth
+C.songs and dances about the most important events
+D.both B and C
+4."Remembered history"is regarded as valuable only when____________
+A.it is written down
+B.no written account is available
+C.it proves to be time
+D.people are interested in it
+5.The passage suggests that we could have learned much more about our past than we do now if the ancient people had______________
+A.kept a written record of every past event
+B.not burnt their written records in wars
+C.told exact stories of the most important happenings
+D.made more songs and dances
 ## 阅读答案
 1.D
 2.D

@@ -3,11 +3,31 @@ Children in the United States are exposed to many influences other than that of 
 Parents are concerned about the lack of quality in television programs for children.The degree of violence in many of these shows also worries them.Studies indicate that，when children are exposed to violence，they many become aggressive or insecure. Parents are also concerned at，out the commercials that their children see on television. Many parents would like to see fewer commercials during programs for children.And some parents feel that these shows should not have any commercials at all because young minds are not mature enough to deal with the claims made by advertisers.
 Educational television has no commercials and has programs for children that many parents approve of The most famous of these is Sesame Street，which tries to give preschool children a head start in learning the alphabet(字母)and numbers.It also flies to teach children useful things about the world in which they live.
 Even though most parents and educators give Sesame Street and shows like it high marks for quality，some critics argue that all television，whether educational or not，is harmful to children.These critics feel that the habit of watching hours of television every day turns children into bored and passive(被动的)consumers of their world rather than encouraging them to become active explorers of it.
-1.Which of the following statements is NOT based on the passage?A.Parents are worried about the influence from television on their childrenB Television has much influence on childrenC Both parents and their children like watching educational television.D.Some critics think that television is no good for children.
-2.In what ways do children suffer from television?A.They become the victims of social violenceB They spend hours watching television instead of doing school workC The programs make the children lose interest in the world.D The programs make the children spend too much of their parents' money
-3.Parents would not like their children to see commercials because ___A.they think that their children ore not old enough to handle advertisingB.commercials teach children alphabet and numbersC.commercials help to sell productsD.they don't like commercials
-4.Educational television is widely appreciated because________A.it does have the same commercials as othersB.it offers programs for both children and their parentsC many parents like the programs it offers for their childrenD.children can learn some school subjects before they go to school
-5.Which of the following can best serve as the title of the passage?A.Watching Too Much Television May Be Harmful to Young MindsB.Television Is More Harmful than EducationalC.Television's Influence on ChildrenD More Education Television
+1.Which of the following statements is NOT based on the passage?
+A.Parents are worried about the influence from television on their children
+B. Television has much influence on children
+C. Both parents and their children like watching educational television.
+D.Some critics think that television is no good for children.
+2.In what ways do children suffer from television?
+A.They become the victims of social violence
+B. They spend hours watching television instead of doing school work
+C. The programs make the children lose interest in the world.
+D. The programs make the children spend too much of their parents' money
+3.Parents would not like their children to see commercials because ___
+A.they think that their children ore not old enough to handle advertising
+B.commercials teach children alphabet and numbers
+C.commercials help to sell products
+D.they don't like commercials
+4.Educational television is widely appreciated because________
+A.it does have the same commercials as others
+B.it offers programs for both children and their parents
+C. many parents like the programs it offers for their children
+D.children can learn some school subjects before they go to school
+5.Which of the following can best serve as the title of the passage?
+A.Watching Too Much Television May Be Harmful to Young Minds
+B.Television Is More Harmful than Educational
+C.Television's Influence on Children
+D. More Education Television
 ## 阅读答案
 1.C
 2.C

@@ -3,11 +3,31 @@ Trees are useful to man in three very important ways：they provide him wood and
 Unfortunately，in many parts of the world，man has not realized that the third of these services is the most important.In his eagerness to draw quick profit from the trees，he has cut them down in large numbers Two thousand years ago，a rich and powerful country cut down its trees to build warships，with which to gain itself an empire It gained the empire but，without its trees，its soil became bare and poor.When the empire fell to pieces，the country found itself faced by floods and starvation.
 Even where a government realizes the importance of a plentiful supply of trees，it is difficult sometimes to make the people realize this.They cut down the trees but are too careless to plant and look after new trees So，unless the government has a good system of control，or can educate the people，the forests slowly disappear
 This does not only mean that there will be fewer trees.The results are even more serious：for where there are trees，their roots break the soil up，allowing the rain to sink in， and also bind the soil.This prevents the soil from being washed away.But where there are no trees，the rainfalls on hard ground and flows away on the surface，and this causes floods and the rain carries away the rich topsoil in which crops grow When a11 the topsoil is gone.nothing remains but worthless desert.
-1.Trees are useful to man mainly in three ways，the most important of which is that they can ____A.keep him from the hot sunshineB.enable him to build warshipsC.make him draw quick profit from themD.protect him from droughts and floods
-2.It's a great pity that ____A.man is only interested in building empiresB.man is eager to profit from treesC.man hasn?t realized the importance of trees to himD. man hasn?t found out that he has lost all trees
-3.Sooner or later the forests will disappear ______.A.unless a country has a plenty supply of treesB.unless people stop cutting down their treesC.unless aIl people are taught the importance of planting treesD.unless the government punishes those who cut trees instead of planting them
-4.The word"bind"in Paragraph 5 means"____"A.to wash awayB.to make wetC.to make stay togetherD.to improve
-5.When there is a heavy rain.trees can help to prevent floods as they can_________A.keep rain from falling down to soft groundB.cause the soil to allow rainwater to sink inC.prevent the soil from being washed awayD.make the topsoil stick together
+1.Trees are useful to man mainly in three ways，the most important of which is that they can ____
+A.keep him from the hot sunshine
+B.enable him to build warships
+C.make him draw quick profit from them
+D.protect him from droughts and floods
+2.It's a great pity that ____
+A.man is only interested in building empires
+B.man is eager to profit from trees
+C.man hasn?t realized the importance of trees to him
+D. man hasn?t found out that he has lost all trees
+3.Sooner or later the forests will disappear ______.
+A.unless a country has a plenty supply of trees
+B.unless people stop cutting down their trees
+C.unless aIl people are taught the importance of planting trees
+D.unless the government punishes those who cut trees instead of planting them
+4.The word"bind"in Paragraph 5 means"____"
+A.to wash away
+B.to make wet
+C.to make stay together
+D.to improve
+5.When there is a heavy rain.trees can help to prevent floods as they can_________
+A.keep rain from falling down to soft ground
+B.cause the soil to allow rainwater to sink in
+C.prevent the soil from being washed away
+D.make the topsoil stick together
 ## 阅读答案
 1.D
 2.C

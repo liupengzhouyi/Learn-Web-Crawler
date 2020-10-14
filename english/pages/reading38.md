@@ -5,14 +5,20 @@
 　　Just when the demand for more and more steel developed, prospectors discovered huge new deposits(矿床) of iron ore in the Mesabi Range, a 120-mile-long region in Minnesota near Lake Superior. The Mesabi deposits were so near the surface that they could be mined with steam shovels.
 　　Barges and steamers carried the iron ore through Lake Superior to deposits on the southern shores of Lake Michigan and Lake Erie. With dizzying speed Gary, Indiana and Toledo, Youngstown, and Cleveland, Ohio, became major steel manufacturing centers. Pittsburgh was the greatest steel city of all.
 1.The best title for the passage is______.
-A. The Railroad Industry B. Famous Inventors C. Changing Iron into Steel D. Steel Manufacturing Centers
+A. The Railroad Industry 
+B. Famous Inventors 
+C. Changing Iron into Steel 
+D. Steel Manufacturing Centers
 2.According to the passage, how did the Bessemer method make the mass production of steel possible?
 A. It directed air at melted iron in a furnace, removing all impurities. 
 B. It slowly heated iron ore, then stirred it and heated it again.
 C. It changed iron ore into iron, which was a substitute(替代物) for steel.
 D. It could be quickly found deposits of iron ore under the ground.
 3.The furnace that Bessemer used to process iron into steel was called a______.
-A. heater B. steamer C. converter D. shower
+A. heater 
+B. steamer 
+C. converter 
+D. shower
 4.It can be inferred from the passage that the mass production of steel caused______.
 A. a decline(衰退) in the railroad industry 
 B. a revolution in the industrial world 

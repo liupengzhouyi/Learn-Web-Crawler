@@ -1,11 +1,31 @@
 # Read
 When Mrs.Joseph Groeger died recently in Vienna，Austria，people asked the obvious，"Why did she live to be 107?" Answers were provided by a survey conducted among 148 Viennese men and women who had reached the age of 100.Somewhat surprising was the fact that the majority had lived most of their lives in cities.In spite of the city's image as an unhealthy place，city living often provides benefits that country living can lack.One factor seems to be important to the longevity(长寿)of those interviewed. This factor is exercise.in the cities it is often faster to walk short distances than to wait for a bus.Even taking public transportation often requires some walking.Smaller apartment houses have no elevators(电梯)，and so people must climb stairs.City people can usually walk to local supermarkets Since parking spaces are hard to find，there is often no alternative to walking.
 On the other hand，those who live in the country and suburbs do not have to walk every day.In fact，the opposite is often true.To go to school，work，or almost anywhere else，they must ride in cars.
-1.The Vienna survey may help to explain _____A.the complaints of people in apartment housesB.the cause of Mrs Groeger's deathC.the longevity of people like Mrs.GroegerD. the image of cities in general
-2.The purpose of the second paragraph is to list some _____A.benefits of walkingB.occasions for walking in city lifeC.comments made by city peopleD.problems of city living
-3.To reach the third floor of a building.it would probably be most healthful __A. to take the elevatorB.to walk up the stairsC.to ride in a carD.to find an alternative to walking
-4.People who live in the country probably do more driving than walking because __A.they don't live near business areasB.they don't need the exerciseC.they never have parking problemsD.they can't afford to take the bus
-5.A conclusion that can be drawn from this passage is that ____A.air pollution is not seriousB.anyone can live to be 107C.country people should move to the cityD.walking is a healthful exercise
+1.The Vienna survey may help to explain _____
+A.the complaints of people in apartment houses
+B.the cause of Mrs Groeger's death
+C.the longevity of people like Mrs.Groeger
+D. the image of cities in general
+2.The purpose of the second paragraph is to list some _____
+A.benefits of walking
+B.occasions for walking in city life
+C.comments made by city people
+D.problems of city living
+3.To reach the third floor of a building.it would probably be most healthful __
+A. to take the elevator
+B.to walk up the stairs
+C.to ride in a car
+D.to find an alternative to walking
+4.People who live in the country probably do more driving than walking because __
+A.they don't live near business areas
+B.they don't need the exercise
+C.they never have parking problems
+D.they can't afford to take the bus
+5.A conclusion that can be drawn from this passage is that ____
+A.air pollution is not serious
+B.anyone can live to be 107
+C.country people should move to the city
+D.walking is a healthful exercise
 ## 阅读答案
 1.C
 2.B

@@ -1,10 +1,30 @@
 # Read
 One silly question I simply can't stand is "How do you feel".Usually the question is asked of a man in action—a man on the go walking along the street or busily working at his desk. So what do you expect him to say? He'll probably say "Fine.I'm all right." But you've put a bug in his ear maybe now he's not sure. If you are a good friend,you may have seen something in his face,or his walk that he did not realize that morning. It starts him worrying a little. First thing you know he looks in a mirror to see if everything is all fight,while you go merrily on your way asking someone else. "How do you feel?" Every question has its time and place It's perfectly acceptable,for instance,to ask "How do you feel if you're visiting a close friend in the hospital. But if the fellow is walking on both legs, hurrying to make a train,or sitting at his desk working,it's no time to ask him that silly question. When George Bernard Shaw,the famous writer of plays was in his eighties,someone asked him "How doyou feel". Shaw put him in his place. "When you reach my age", he said. "either you feel all right or you're dead"
-1.According to the writer,greetings, such as"How do you feel?" ___A.show one's consideration for othersB.are a good way to make friendsC are proper to ask a man in actionD.generally make one feel uneasy
-2.The question"How do you feel?" seems to be correct and suitable when asked of ________A.a man working at his deskB.a person having lost a close friendC.a stranger who looks somewhat worriedD.a friend who is ill
-3.The writer seems to feel that a busy man should ____A be praised for his effortsB never be asked any questionC.not be botheredD be discouraged from working so hard
-4.George Bernard Shaw's reply in the passage shows his ______A.cheerfulnessB.clevernessC.abilityD.politeness
-5.You've put a bug in his ear means that you've ______A.made him laughB.shown concern for himC made fun of himD.given him some kind of warning
+1.According to the writer,greetings, such as"How do you feel?" ___
+A.show one's consideration for others
+B.are a good way to make friends
+C.are proper to ask a man in action
+D.generally make one feel uneasy
+2.The question"How do you feel?" seems to be correct and suitable when asked of ________
+A.a man working at his desk
+B.a person having lost a close friend
+C.a stranger who looks somewhat worried
+D.a friend who is ill
+3.The writer seems to feel that a busy man should ____
+A. be praised for his efforts
+B. never be asked any question
+C.not be bothered
+D. be discouraged from working so hard
+4.George Bernard Shaw's reply in the passage shows his ______
+A.cheerfulness
+B.cleverness
+C.ability
+D.politeness
+5.You've put a bug in his ear means that you've ______
+A.made him laugh
+B.shown concern for him
+C. made fun of him
+D.given him some kind of warning
 ## 阅读答案
 1.D2.D3.C4.B5.D
 原文翻译
