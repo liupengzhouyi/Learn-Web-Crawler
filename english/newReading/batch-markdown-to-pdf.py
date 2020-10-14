@@ -9,7 +9,7 @@ if not export_pdf_dir.exists():
 
 for md_file in list(work_dir.glob('*.md')):
     md_file_name = md_file.name
-    pdf_file_name = md_file_name.replace('.md', '.docx')
+    pdf_file_name = md_file_name.replace('.md', '.pdf')
     pdf_file = export_pdf_dir / pdf_file_name
     # pandoc --word-engine=xelatex test.md -o test.word
     cmd = "pandoc '{}' -o '{}'".format(md_file, pdf_file)

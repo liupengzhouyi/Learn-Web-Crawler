@@ -1,13 +1,15 @@
 
 
-
+newPath = '../english/newReading/reading.md'
+file2 = open(newPath, 'w+', encoding='utf-8')
 for i in range(1, 100):
     path = '../english/pages/reading' + str(i) + '.md'
-    newPath = '../english/newReading/reading' + str(i) + '.md'
-    file2 = open(newPath, 'w+', encoding='utf-8')
+
+
     f = open(path)
     line = f.readline()  # 调用文件的 readline()方法
     print("正在标准化第" + str(i) + "篇阅读理解\n")
+    file2.write('---\n')
     print("...")
     while line:
         if line[0:2] == '1.':
@@ -32,5 +34,9 @@ for i in range(1, 100):
             file2.write(line)
         line = f.readline()
     f.close()
-    file2.close()
+    file2.write('\n')
+    file2.write('\n')
+    file2.write('\n')
     print("标准化第" + str(i) + "篇阅读理解完成✅\n")
+
+file2.close()
